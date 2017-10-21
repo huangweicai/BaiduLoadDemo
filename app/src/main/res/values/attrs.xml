@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadCircleView">
+        <!--圆的半径-->
+        <attr name="circle_radius" format="float" />
+        <!--持续时间-->
+        <attr name="duration" format="integer" />
+    </declare-styleable>
+</resources>
